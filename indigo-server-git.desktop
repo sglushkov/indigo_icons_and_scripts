@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=INDIGO Server GIT
+Exec=/home/indigo/INDIGO/indigo_server_start.sh
+Icon=/home/indigo/INDIGO/indigo-server.png
+Terminal=false
+Type=Application

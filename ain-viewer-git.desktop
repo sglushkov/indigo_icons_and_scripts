@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Ain Viewer GIT
+Comment=Ain INDIGO Viewer
+Exec=/home/indigo/INDIGO/indigo_imager/ain_viewer_src/ain_viewer %u
+Icon=/home/indigo/INDIGO/ain-viewer.png
+Terminal=false
+Type=Application
+StartupWMClass=ain_viewer
+Categories=Astronomy;Education;Science
+Keywords=astronomy
+MimeType=image/x-image-raw;image/x-image-fits;image/x-fits

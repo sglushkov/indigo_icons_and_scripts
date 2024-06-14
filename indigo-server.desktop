@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=INDIGO Server
+Exec=indigo_server --enable-rpi-management
+Icon=/home/indigo/INDIGO/indigo-server.png
+Terminal=false
+Type=Application

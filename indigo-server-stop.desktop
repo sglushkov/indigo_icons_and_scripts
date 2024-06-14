@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=INDIGO Server
+Comment=INDIGO Server
+Exec=/home/indigo/INDIGO/indigo_server_stop.sh
+Icon=/home/indigo/INDIGO/indigo-server-stop.png
+Terminal=false
+Type=Application
+

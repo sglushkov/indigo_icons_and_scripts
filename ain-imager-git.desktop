@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Ain Imager GIT
+Comment=Ain INDIGO Imager
+Exec=/home/indigo/INDIGO/indigo_imager/ain_imager_src/ain_imager
+Icon=/home/indigo/INDIGO/ain-imager.png
+Terminal=false
+Type=Application
+StartupWMClass=ain_imager
+Categories=Astronomy;Education;Science
+Keywords=astronomy

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=INDIGO Control Panel GIT
+Exec=/home/indigo/INDIGO/indigo_control_panel/indigo_control_panel
+Icon=/home/indigo/INDIGO/indigo_control_panel/resource/appicon.png
+Terminal=false
+Type=Application
